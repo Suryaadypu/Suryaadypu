@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:142D4E,100:00C2FF&height=220&section=header&text=Hey%2C%20I%27m%20Surya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20Web%20%26%20Backend%20Development&descAlignY=60&descSize=17&descColor=BAE6FD" alt="Surya profile header" />
+  <img src="./header.svg" alt="Surya profile header" />
 </div>
 
 <div align="center">
